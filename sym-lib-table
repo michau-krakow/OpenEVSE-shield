@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Talema)(type Legacy)(uri ${KIPRJMOD}/Talema.lib)(options "")(descr ""))
+)
