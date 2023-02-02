@@ -1,0 +1,29 @@
+Drill report for /home/michal/Documents/KiCAD/OpenEVSE_mega2560_shield/OpenEVSE_mega2560_shield.kicad_pcb
+Created on nie, 29 sty 2023, 23:09:05
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Top                       front
+    L2 :  Bottom                    back
+
+
+Drill file 'OpenEVSE_mega2560_shield-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (2 holes)
+    T2  0,60mm  0,024"  (13 holes)
+    T3  0,80mm  0,031"  (30 holes)
+    T4  1,00mm  0,039"  (50 holes)
+    T5  1,20mm  0,047"  (23 holes)
+    T6  1,40mm  0,055"  (6 holes)
+    T7  1,50mm  0,059"  (2 holes)
+
+    Total plated holes count 126
+
+
+Drill file 'OpenEVSE_mega2560_shield-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3,20mm  0,126"  (5 holes)
+
+    Total unplated holes count 5
